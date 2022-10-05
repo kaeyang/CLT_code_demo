@@ -5,6 +5,8 @@ https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 We look at the population column and find that it has a right-skewed unimodal distribution that is not normal. We would take 1000 random samples of increasing sample size and observe that the sampling distribution gradually approahces a normal distribution.
 
+<br><br><br>
+
 Collaborators: <br>
 Johnny - https://github.com/jhnyc <br>
 Yichen - https://github.com/SHENSHENZYC <br>
