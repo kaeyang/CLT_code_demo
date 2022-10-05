@@ -1,9 +1,9 @@
 # CLT_code_demo
 
-This is a code demonstration of how Central Limit Theorem applies to a real-world dataset. We use the dataset From here:
+This is a code demonstration of how Central Limit Theorem applies to a real-world dataset. We use the dataset from here:
 https://www.kaggle.com/datasets/camnugent/california-housing-prices 
 
-We look at the population column and find that it has a right-skewed unimodal distribution that is not normal. We would take 1000 random samples of increasing sample size and observe that the sampling distribution gradually approahces a normal distribution.
+The primary purpose of this project is to verify the result suggested by the Central Limit Theorem by simulating a sampling distribution from a population. The dataset that is used as the population is the column "household" in the "california_housing_train.csv" file. We repeatedly took random samples to simulate a sampling distribution and analyzed how the sampling distribution is impacted by different sample size and what sample size aligns with what Central Limit Theorem suggests. With increasing sample size, the sampling distribution gradually approaches to normal. 
 
 <br><br>
 Collaborators: <br>
