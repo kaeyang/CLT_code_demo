@@ -4,3 +4,7 @@ This is a code demonstration of how Central Limit Theorem applies to a real-worl
 https://www.kaggle.com/datasets/camnugent/california-housing-prices 
 
 We look at the population column and find that it has a right-skewed unimodal distribution that is not normal. We would take 1000 random samples of increasing sample size and observe that the sampling distribution gradually approahces a normal distribution.
+
+Collaborators:
+Johnny - https://github.com/jhnyc 
+Yichen - https://github.com/SHENSHENZYC
